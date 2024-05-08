@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "name": "Laptop",
+      "price": 999.99,
+      "description": "A high-performance laptop with powerful specifications."
+    },
+    {
+      "id": 2,
+      "name": "Smartphone",
+      "price": 699.99,
+      "description": "A sleek and modern smartphone with advanced features."
+    },
+    {
+      "id": 3,
+      "name": "Headphones",
+      "price": 149.99,
+      "description": "Wireless headphones with noise-cancellation technology."
+    },
+    {
+      "id": 4,
+      "name": "Smartwatch",
+      "price": 299.99,
+      "description": "A smartwatch with fitness tracking and notification features."
+    },
+    {
+      "id": 5,
+      "name": "Tablet",
+      "price": 499.99,
+      "description": "A versatile tablet for work and entertainment."
+    },
+    {
+      "id": 6,
+      "name": "Digital Camera",
+      "price": 799.99,
+      "description": "A professional-grade digital camera for capturing stunning photos and videos."
+    },
+    {
+      "id": 7,
+      "name": "Wireless Speaker",
+      "price": 199.99,
+      "description": "A portable wireless speaker with rich sound quality."
+    },
+    {
+      "id": 8,
+      "name": "Gaming Console",
+      "price": 399.99,
+      "description": "A gaming console with immersive gaming experiences."
+    }
+  ]
+  
